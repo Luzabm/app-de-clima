@@ -45,7 +45,7 @@ body{
     transition: all 0.3s;
 }
 .card.active{
-    height: 533px;
+    height: auto;
 }
 #humidity, #wind-speed, #temperature{
     font-weight: 500;
